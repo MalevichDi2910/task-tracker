@@ -1,0 +1,31 @@
+/*
+.App {
+  padding: 30px;
+  display: flex;
+}
+
+.App > div {
+  margin-right: 50px;
+}
+
+.error {
+  border: red 1px solid;
+}
+
+.error-message {
+  color: red;
+}
+
+.active-filter {
+  background-color: aquamarine;
+}
+
+.is-done {
+  opacity: 0.5;
+}
+*/
+
+.App {
+    height: 100vh;
+    background: linear-gradient(to left, #d7c3f7 0%,#a365f3 50%,#9243ed 100%);
+}
