@@ -20,9 +20,6 @@ import { useActions } from "common/hooks";
 import { selectIsLoggedIn } from "features/auth/model/auth.selectors";
 import { selectAppStatus, selectIsInitialized } from "app/app.selectors";
 import { authThunks } from "features/auth/model/auth.slice";
-import { deepPurple } from '@mui/material/colors';
-
-const color = deepPurple[200];
 
 function App() {
   const status = useSelector(selectAppStatus);
