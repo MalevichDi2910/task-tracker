@@ -26,6 +26,6 @@
 */
 
 .App {
-    height: 100vh;
+    min-height: 100vh;
     background: linear-gradient(to left, #d7c3f7 0%,#a365f3 50%,#9243ed 100%);
 }
